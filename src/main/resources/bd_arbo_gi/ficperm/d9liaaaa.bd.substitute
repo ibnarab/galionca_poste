@@ -1,0 +1,10 @@
+s/\xa4/\|/g
+s/\xe9/e/g
+s/\xe8/e/g
+s/\xe0/a/g
+s/\xf4/o/g
+s/\xb0/o/g
+s/\xe2/a/g
+s/\x92/ /g
+s/\xd4/O/g
+s/\xea/e/g
